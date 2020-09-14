@@ -1,0 +1,45 @@
+{
+  "dir": "ltr",
+  "lang": "es",
+  "name": "Anteproyecto",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "short_name": "Anteproyecto",
+  "theme_color": "#5b7ad0",
+  "description": "Sitio prueba anteproyecto educacional",
+  "orientation": "portrait",
+  "background_color": "#5b7ad0",
+  "related_applications": "",
+  "prefer_related_applications": false,
+  "screenshots": [{
+    "src": "screenshots/screenshot.png",
+    "type": "image/png",
+    "sizes": "508x512"
+  }],
+  "icons": [{
+      "src": "icons/android/android-launchericon-144-144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/android/android-launchericon-192-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/android/android-launchericon-48-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/android/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icons/android/android-launchericon-72-72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icons/android/android-launchericon-96-96.png",
+      "sizes": "96x96"
+    }
+  ]
+}
